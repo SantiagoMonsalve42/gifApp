@@ -1,3 +1,6 @@
+SEE THE APLICATION WORKING IN THE NEXT URL
+https://gifs-app-asms.netlify.app/
+
 # GifsApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.7.
